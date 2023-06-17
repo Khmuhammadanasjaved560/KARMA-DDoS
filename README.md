@@ -59,7 +59,6 @@
 ```sh
 You must use Python 3.9 or higher
 
-git clone https://github.com/HyukIsBack/KARMA-DDoS.git
 
 Install Python3 modules
  - pip3 install -r requirements.txt  or  pip install -r requirements.txt
